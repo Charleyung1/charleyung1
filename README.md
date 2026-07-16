@@ -1,4 +1,4 @@
-# Hi there, I'm Charles Ekairia 👋
+# Hi there, I'm Charles 👋
 
 <div align="center">
 
@@ -83,32 +83,17 @@ Over the past year, I've built production-style projects that demonstrate cloud 
 
 ## End-to-End GitOps CI/CD Pipeline on AWS
 
-A production-style GitOps CI/CD pipeline that automates the complete software delivery lifecycle—from infrastructure provisioning to Kubernetes deployment on Amazon EKS—using modern DevOps practices.
+<p align="center">
+<img src="screenshots/architecture-diagram.png" width="900">
+</p>
 
-### 🔧 Technologies
+Built a production ready GitOps deployment platform on AWS using Terraform, Amazon EKS, Helm, ArgoCD, Docker, and Amazon ECR to automate infrastructure provisioning and application delivery through Git-based workflows, enabling faster, consistent, and reliable software releases.
 
-- AWS
-- Terraform
-- Docker
-- GitHub Actions
-- Amazon ECR
-- Amazon EKS
-- Kubernetes
-- Helm
-- ArgoCD
+**Tech Stack**
 
-### ✨ Key Highlights
+AWS • Terraform • Docker • GitHub Actions • Amazon EKS • Helm • ArgoCD
 
-- Provisioned AWS infrastructure using Terraform
-- Built a complete CI pipeline with GitHub Actions
-- Dockerized a Java application
-- Published container images to Amazon ECR
-- Provisioned Amazon EKS infrastructure
-- Deployed applications to Kubernetes using Helm
-- Implemented GitOps continuous delivery with ArgoCD
-- Configured automated Slack deployment notifications
-
-📂 **Repository:** *(Add your GitHub project link here)*
+🔗 **Repository:** [View Project](link)
 
 ---
 
